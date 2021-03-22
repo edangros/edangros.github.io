@@ -6,9 +6,9 @@ logo:
 author: Jae-ho Lee
 description: Engineering, Computer Science, Chemistry
 email: edangros@gmail.com
-#phone: -
-#address: -
-copyright: Copyright &copy; 2020 Designed by [J.-H. Lee](edangros.github.io)
+phone:
+address:
+copyright: Copyright 2020 Designed by [J.-H. Lee](edangros.github.io)
 
 menu:
 - {name: About, link: '/about'}
