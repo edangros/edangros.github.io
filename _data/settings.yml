@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: \"Be ready for the world <br>before the world is ready for you\"
+  hero-title: "Be ready for the world <br>before the world is ready for you"
 
 social:
 
@@ -94,9 +94,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Programming, icon: 'icon-1.png', date: '2003 - Present', organization: 'WEBEX'}
-- {name: Energy Chemistry Researcher, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: National R&D Researcher, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Programming, icon: 'icon-1.png', date: '2003 - Present', organization: }
+- {name: Energy Chemistry Researcher, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'Konkuk Univ.'}
+- {name: National R&D Researcher, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'Konkuk Univ.'}
 
 
 #-------------------------------
@@ -104,7 +104,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in Chemistry, date: '2021', organization: 'Konkuk University'}
+- {name: Master in Chemistry, date: '2021', organization: 'Konkuk University'}
 - {name: Bachelor of Technology Fusion Engineering and Mechanical Engineering, date: '2019', organization: 'Konkuk University'}
 
 
