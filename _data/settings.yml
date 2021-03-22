@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Multiperformer with Convergence Perspective
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: Jae-ho Lee
+description: Engineering, Computer Science, Chemistry
+email: edangros@gmail.com
+phone: -
+address: -
+copyright: Copyright &copy; 2020 Designed by [J.-H. Lee](edangros.github.io)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,13 +38,9 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: \"Be ready for the world <br>before the world is ready for you\"
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
@@ -52,7 +48,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -77,28 +73,20 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
+  #- title : "Jack Schenziwe"
+  #  image : "assets/images/team/member-1.png"
+  #  designation : "Project Manager"
 
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Programming Capability
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Network Design, color: '#fdb157', value: '70%'}
+- {name: C# Clitent Development, color: '#9473e6', value: '80%'}
+- {name: Python Data Analysis, color: '#bdecf6', value: '80%'}
+- {name: Data Pipeline Design, color: '#ffbcaa', value: '90%'}
+- {name: Googling, color: '#eeeeee', value: '100%'}
 
 
 #-------------------------------
@@ -106,9 +94,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Programming, icon: 'icon-1.png', date: '2003 - Present', organization: 'WEBEX'}
+- {name: Energy Chemistry Researcher, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: National R&D Researcher, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -116,10 +104,9 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Marters in Chemistry, date: '2021', organization: 'Konkuk University'}
+- {name: Bachelor of Technology Fusion Engineering and Mechanical Engineering, date: '2019', organization: 'Konkuk University'}
+
 
 
 #-------------------------------
