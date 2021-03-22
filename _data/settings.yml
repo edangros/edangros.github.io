@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Multiperformer with Convergence Perspective
+title: J-H Lee Tech Blog
 logo: 
 author: Jae-ho Lee
 description: Engineering, Computer Science, Chemistry
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: "Be ready for the world <br>before the world is ready for you"
+  hero-title: "Multiperformer with <br> Convergence Perspective"
 
 social:
 
